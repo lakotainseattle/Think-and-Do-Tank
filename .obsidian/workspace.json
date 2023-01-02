@@ -18,8 +18,201 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "46041bdedd9d4498",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Artificial Intelligence/READ ME.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d2b1d5220a8f0dbb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Collaboration/READ ME.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a8be8f62b71ee99f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Electrical Engineering/READ ME.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "003cb34b4e2d1446",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Graphic Arts/READ ME.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "313d63cccede800e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Legal/READ ME.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0f6342ded16e058b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Logistics/READ ME.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "591bde380777dde0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Real Estate/READ ME.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "15a0471e075c1dda",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Software Engineering/READ ME.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "74f2e399764bce23",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Website Design/READ ME.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "00173a059b729537",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Welcome and Info/READ ME.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c892f5945330cafa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hardware Engineering/READ ME.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8dbb94302b841f1b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Process Engineering/READ ME.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "50925ba1bb46ae60",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Product Engineering/READ ME.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5f4de7e0d4ed3cb3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Production/READ ME.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5b762a1406064125",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Marketing/READ ME.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "97d8cb2ed024c302",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Software Engineering/READ ME.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 16
       }
     ],
     "direction": "vertical"
@@ -85,7 +278,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Software Engineering/READ ME.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +295,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Software Engineering/READ ME.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +318,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Software Engineering/READ ME.md"
               }
             }
           }
@@ -146,8 +339,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "07b6ef878e0e0735",
+  "active": "97d8cb2ed024c302",
   "lastOpenFiles": [
-    "MyBusinessIdeaTemplate/MyBusinessKanban.md"
+    "Welcome and Info/READ ME.md",
+    "Website Design/READ ME.md",
+    "Software Engineering/READ ME.md",
+    "Real Estate/READ ME.md",
+    "Production/READ ME.md",
+    "Product Engineering/READ ME.md",
+    "Process Engineering/READ ME.md",
+    "Mechanical Engineering/READ ME.md",
+    "Marketing/READ ME.md",
+    "Logistics/READ ME.md"
   ]
 }
