@@ -11,10 +11,10 @@ Join the force and help make this project a reality!
 -
 
 ### Goals
-- Be modular. For example, garbage collector,  shader programming, object orientation, etc should be language modules.
+- Be modular. For example, #garbage_collector, #shader_programming, object orientation, etc should be language modules.
 - Be easily extensible. This can be achieved with a reserved word system that marks any word as reserved if certain lexical rule is applied (i.e. all capitals, quoted with `, etc).
 - Be multi-paradigm. It should support the imperative and functional paradigms, the structured and object-oriented paradigms, and other paradigms like text generation, state machine, grammar expression, etc.
-- name is to be simple to type and find, try searching reddit for C++, it only accepts C
+- name is to be simple to type and find, try searching reddit for #Cpp, it only accepts C
 
 ### Development Guidelines
 - Use any programming language
