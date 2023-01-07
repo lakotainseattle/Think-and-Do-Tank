@@ -210,9 +210,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5980023123e78745",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tickets/Example Ticket.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 16
+        "currentTab": 17
       }
     ],
     "direction": "vertical"
@@ -278,7 +290,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Software Engineering/Orca-Programming-Langauge/Ideas/READ ME.md",
+                "file": "Tickets/Example Ticket.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -295,7 +307,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Software Engineering/Orca-Programming-Langauge/Ideas/READ ME.md",
+                "file": "Tickets/Example Ticket.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -318,7 +330,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Software Engineering/Orca-Programming-Langauge/Ideas/READ ME.md"
+                "file": "Tickets/Example Ticket.md"
               }
             }
           }
@@ -339,17 +351,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "97d8cb2ed024c302",
+  "active": "b26f0eed5c7fe51e",
   "lastOpenFiles": [
-    "Software Engineering/Orca-Programming-Langauge/READ ME.md",
+    "Software Engineering/Orca-Programming-Langauge/Ideas/Info Dump for Mind Mapping.md",
     "Software Engineering/Orca-Programming-Langauge/Ideas/READ ME.md",
+    "Software Engineering/Orca-Programming-Langauge/READ ME.md",
     "Software Engineering/READ ME.md",
     "Website Design/READ ME.md",
     "Welcome and Info/READ ME.md",
     "Real Estate/READ ME.md",
     "Production/READ ME.md",
     "Product Engineering/READ ME.md",
-    "Process Engineering/READ ME.md",
-    "Mechanical Engineering/READ ME.md"
+    "Process Engineering/READ ME.md"
   ]
 }
