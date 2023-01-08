@@ -1,6 +1,6 @@
 # The Orca Programming Langauge 
 (image here)
-###### Currently in design phase. Very underdevloped!
+#### Currently in design phase. Very underdevloped!
 
 description here
 Join the force and help make this project a reality!
